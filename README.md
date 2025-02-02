@@ -5,7 +5,7 @@ Modified National Institute of Standards and Technology (MNIST) dataset. It is b
 features like training, saving/loading model checkpoints, and visualizing training metrics.
 
 
-
+ 
 
 Here are some key features of the  project:
 
