@@ -27,4 +27,12 @@ In the second session, the checkpoint is reloaded, and training continues for ad
 is evaluated on the test dataset to track its performance.
 
 
+
+There are 2 python files in repository: model.py and train.py
+
+model.py: this file defines the CNN model architecture and includes functions for training and testing the model.
+train.py: this file handles the entire training workflow, from loading the dataset to saving and loading checkpoints. This file
+uses the double_plot function to visualize training loss and accuracy.
+
+
 Made by Sanad Nassar
